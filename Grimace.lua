@@ -29,7 +29,7 @@ while true do
 
 end
 
--- Auto Claim Quest
+-- Auto Claim Quest & Auto use Potion
 while true do
 	pcall(function()
 local args = {
